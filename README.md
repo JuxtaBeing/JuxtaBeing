@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @JuxtaBeing
+- 👋 Hi, I’m Juxta
 - 👀 I’m interested in you
 - 🌱 I’m currently learning humans and A.I.
 - 💞️ I’m looking to collaborate on development of a yet unkown exchange platform 
 - 📫 How to reach me at telegram @shouldacoulda
-- 😄 Pronouns: non-binary
+- 😄 Pronouns: JuxtaBeing
 - ⚡ Fun fact: Type 1 requires appropriate attire.
 
 <!---
