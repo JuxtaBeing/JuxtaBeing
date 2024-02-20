@@ -1,4 +1,4 @@
-- 👋 Hi, I’m - Benjamin -
+- 👋 Hi, I’m a JuxtaBeing
 - 👀 I’m interested in you
 - 🌱 I’m currently learning humanoids and A.I.
 - 💞️ I’m looking to collaborate with anyone that is ready for a new age exchange.
