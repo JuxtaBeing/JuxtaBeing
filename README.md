@@ -1,8 +1,8 @@
-- 👋 Hi, I’m a JuxtaBeing
-- 👀 I’m interested in you
+- 👋 Hi, I’m - Benjamin - the very first JuxtaBeing, a journey of Shoulda Coulda.
+- 👀 I’m interested in you.
 - 🌱 I’m currently learning humanoids and A.I.
 - 💞️ I’m looking to collaborate with anyone that is open to support a new age exchange for ''TechCouture''(functional fashion).
-- 📫 How to reach me at telegram @JuxtaBeing
+- 📫 How to reach me at telegram: @JuxtaBeing
 - 😄 Pronouns: JuxtaBeing
 - ⚡ Fun fact: Type 1 requires appropriate attire.
 
