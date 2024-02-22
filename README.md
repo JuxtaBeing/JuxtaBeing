@@ -1,4 +1,4 @@
-- 👋 Hi, I’m - Benjamin - the very first JuxtaBeing, a journey of Shoulda Coulda.
+- 👋 Hi, I’m - Benjamin - the very first JuxtaBeing, on a journey of Shoulda Coulda.
 - 👀 I’m interested in you.
 - 🌱 I’m currently learning humanoids and A.I.
 - 💞️ I’m looking to collaborate with anyone that is open to support a new age exchange for ''TechCouture''(functional fashion).
